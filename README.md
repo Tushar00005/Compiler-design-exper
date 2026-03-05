@@ -1,7 +1,7 @@
 
-**Name:** Sharish
+**Name:** R Tushar
 
-**Register Number:** RA23110050084
+**Register Number:** RA2311003050342
 
 **Year & Section:** 3rd Year CSE - E
 
